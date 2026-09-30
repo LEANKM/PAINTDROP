@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8b2110ef8fc628843ba4b9e59b4b56c1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - jump: {fileID: 8300000, guid: 6f780d8ccc14436479ac4f000e706460, type: 3}
+  - land: {fileID: 8300000, guid: ef177c0cfaa2bb84bb081e221d5d24d9, type: 3}
+  - hurt: {fileID: 8300000, guid: a2170eff4b21a694ea96567cf8bf45ac, type: 3}
+  - respawn: {fileID: 8300000, guid: 10a52ec0de1a4144ebb903ed2910b68c, type: 3}
+  - success: {fileID: 8300000, guid: b8cc5958b2b82124e8631cf1c27cbf3e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
